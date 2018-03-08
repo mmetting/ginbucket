@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "1",
+        "name" : "Acme Inc. - OpenShift",
+        "dealSize" : 780000,
+        "status" : "Propose",
+        "subscribed" : false  
+    },{
+        "id" : "2",
+        "name" : "Herbert Smith LLC - Fuse",
+        "dealSize" : 340000,
+        "status" : "Qualify",
+        "subscribed" : false  
+    },{
+        "id" : "3",
+        "name" : "Shell - JDV",
+        "dealSize" : 140000,
+        "status" : "Propose",
+        "subscribed" : false  
+    },{
+        "id" : "4",
+        "name" : "TCS / Ericcson - JDV",
+        "dealSize" : 400000,
+        "status" : "Closed won",
+        "subscribed" : false  
+    },{
+        "id" : "5",
+        "name" : "Eurobank - 3Scale",
+        "dealSize" : 320000,
+        "status" : "Propose",
+        "subscribed" : true  
+    },{
+        "id" : "6",
+        "name" : "Geopolis - 3Scale",
+        "dealSize" : 100000,
+        "status" : "Propose",
+        "subscribed" : false  
+    },{
+        "id" : "7",
+        "name" : "Miles & More - JDG",
+        "dealSize" : 280000,
+        "status" : "Qualify",
+        "subscribed" : false  
+    },{
+        "id" : "8",
+        "name" : "Kaufland Mobile Platform",
+        "dealSize" : 198000,
+        "status" : "Closed lost",
+        "subscribed" : false  
+    }
+]
